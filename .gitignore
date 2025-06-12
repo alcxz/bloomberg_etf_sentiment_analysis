@@ -1,0 +1,4 @@
+frontend/node_modules
+backend/.venv
+.env
+backend/test_parts.py
