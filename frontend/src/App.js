@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="app">
       <div className="container">
-        <h1 className="header">ETF Sentiment Analysis</h1>
+        <h1 className="header">Bloomberg ETF Sentiment Analysis</h1>
 
         <div style={{ textAlign: 'center', marginBottom: '1.5rem' }}>
           <button
